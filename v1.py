@@ -33,6 +33,5 @@ elif direction=="decode":
 else:
   print("Please type either *encrypt* or *decrypt*")
   
-    #plain_text = "hello"
-    #shift = 5
-    #print output: "The encoded text is mjqqt"
+#Example:
+# "hello" encoded with a shift of 5 is "mjqqt"
