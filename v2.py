@@ -20,7 +20,5 @@ def cypher(input_text, shift_num, mode):
 
 cypher(text, shift, direction)
 
-    #Example:
-    #plain_text = "hello"
-    #shift = 5
-    #print output: "The encoded text is mjqqt"
+#Example:
+# "hello" encoded with a shift of 5 is "mjqqt"
